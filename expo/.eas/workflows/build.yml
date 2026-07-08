@@ -1,0 +1,21 @@
+name: Build and Submit
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build_ios:
+    name: EAS iOS Build
+    type: build
+    params:
+      platform: ios
+      profile: production
+
+  build_android:
+    name: EAS Android Build
+    type: build
+    params:
+      platform: android
+      profile: production
