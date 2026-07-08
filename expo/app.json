@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "FRC Enterprise - Alchemize",
-    "slug": "alchemize-level-up",
+    "slug": "alchemize-ieut72k8wqcdlc8fvzvv",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -58,7 +58,7 @@
         "origin": "https://alchemize.app/"
       },
       "eas": {
-        "projectId": "8482b587-bf4b-4f73-96da-e7ff086683a3"
+        "projectId": "a203431e-93de-4245-8e0f-2288edc14d97"
       }
     },
     "plugins": [
@@ -114,6 +114,6 @@
     "experiments": {
       "typedRoutes": true
     },
-    "owner": "internetkartel"
+    "owner": "crfenterprise-app"
   }
 }
